@@ -1,5 +1,5 @@
 # Andrew Rucks
-# 4/10/2026
+# 4/16/2026
 # REMOTE WINDOWS SECURITY EVENT LOG COLLECTOR - CLIENT SIDE
 
 # Requests the most recent Windows event logs (security) from a listening server using a socket.
@@ -7,7 +7,6 @@
 # Both the client and the server can be ran on the same machine using the loopback address.
 
 import socket
-import random
 import tkinter as tk
 from tkinter import ttk
 from tkinter import font
